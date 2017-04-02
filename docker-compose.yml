@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  web:
+    build: .
+    image: detecmedia/lamp-php5.6:v1
